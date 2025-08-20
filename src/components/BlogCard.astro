@@ -23,7 +23,7 @@ const subpostCount = !isSubpost(entry.id) ? await getSubpostCount(entry.id) : 0
 ---
 
 <div
-  class="hover:bg-secondary/50 border-accent rounded-b-xl border-b px-0 py-4 transition-colors duration-300 ease-in-out"
+  class="hover:bg-secondary/50 border-accent border-b px-0 py-4 transition-colors duration-300 ease-in-out"
 >
   <Link
     href={`/${entry.collection}/${entry.id}`}
@@ -36,8 +36,8 @@ const subpostCount = !isSubpost(entry.id) ? await getSubpostCount(entry.id) : 0
           <Image
             src={entry.data.image}
             alt={entry.data.title}
-            width={1200}
-            height={630}
+            width={600}
+            height={315}
             class="rounded-xl object-cover"
           />
         </div>
