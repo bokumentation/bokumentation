@@ -2,8 +2,8 @@
 name: 'Project B'
 description: 'This is an example project description! You should replace this with a description of your own project.'
 tags: ['Framework A', 'Library B', 'Tool C', 'Resource D']
-image: '../../../src/content/blog/boku-test/banner.png'
+image: '../../../src/assets/img/banner.png'
 link: 'https://example.com'
-startDate: '2024-02-01'
-endDate: '2024-03-01'
+startDate: '2024-01-01'
+endDate: '2024-02-01'
 ---
