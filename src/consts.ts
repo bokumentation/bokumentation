@@ -18,6 +18,10 @@ export const NAV_LINKS: SocialLink[] = [
     label: 'blog',
   },
   {
+    href: '/projects',
+    label: 'projects',
+  },
+  {
     href: '/about',
     label: 'about',
   },
@@ -25,7 +29,7 @@ export const NAV_LINKS: SocialLink[] = [
 
 export const SOCIAL_LINKS: SocialLink[] = [
   {
-    href: 'https://youtube.com/bokumentation',
+    href: 'https://youtube.com/@bokumentation',
     label: 'Youtube',
   },
   {
