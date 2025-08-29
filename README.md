@@ -1,9 +1,4 @@
 ### A second job to support my addiction
-
-###
-
-<p align="left">Embedded system:</p>
-
 ###
 
 <div align="left">
